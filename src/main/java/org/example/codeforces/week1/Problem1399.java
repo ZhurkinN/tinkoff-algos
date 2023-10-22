@@ -1,4 +1,4 @@
-package org.example.codeforces;
+package org.example.codeforces.week1;
 
 import java.util.Scanner;
 
